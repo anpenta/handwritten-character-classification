@@ -1,0 +1,11 @@
+# Data.
+character-data
+
+# Pycharm project.
+.idea
+
+# Output.
+output
+
+# Python files.
+__pycache__
